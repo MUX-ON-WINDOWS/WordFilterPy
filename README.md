@@ -2,11 +2,11 @@
 
 This is a word filter.
 
-## For example:
+## Input:
 - That pig is fat.
 - Dog says woof!
 - Bird says tjielp!
-## Final:
+## Output:
 - That is fat.
 - says woof!
 - says tjielp!
