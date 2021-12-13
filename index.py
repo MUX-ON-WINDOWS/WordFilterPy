@@ -1,5 +1,5 @@
-infile = "reports.txt"
-outfile = "new_report.txt"
+infile = "input_file.txt"
+outfile = "output_file.txt"
 
 delete_list = [
     # Your words you want to fill to filter.
